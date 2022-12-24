@@ -1,4 +1,4 @@
 # web-desgin
 
-# pure html
-# pure css project
+  html,
+ pure css project
